@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://g11.gogamefun.com/sitemap.xml

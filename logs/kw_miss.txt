@@ -137,3 +137,5 @@ tags\moody-tones_9.html
 tags\morning-light_10.html
 tags\morning-light_8.html
 tags\soft-portraits_3.html
+index.html
+link_list.html
